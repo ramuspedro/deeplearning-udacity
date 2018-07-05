@@ -1,0 +1,5 @@
+assigments/notMNIST_large
+assigments/notMNIST_small
+
+assigments/*.pickle
+assigments/*.tar.gz
